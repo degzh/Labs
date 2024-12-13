@@ -1,0 +1,17 @@
+D:\сЕтИ\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.exe
+D:\сЕтИ\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.deps.json
+D:\сЕтИ\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.runtimeconfig.json
+D:\сЕтИ\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.dll
+D:\сЕтИ\Lab1\Lab1\bin\Debug\net6.0-windows\Lab1.pdb
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.AssemblyReference.cache
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.Form1.resources
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.GenerateResource.cache
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfoInputs.cache
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.AssemblyInfo.cs
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.csproj.CoreCompileInputs.cache
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.dll
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\refint\Lab1.dll
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.pdb
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\Lab1.genruntimeconfig.cache
+D:\сЕтИ\Lab1\Lab1\obj\Debug\net6.0-windows\ref\Lab1.dll
